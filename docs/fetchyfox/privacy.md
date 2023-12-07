@@ -3,7 +3,10 @@
 FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated or related company (“FetchyFox” or “we”), recognizes the importance of your privacy.  This privacy policy tells you what personal information we collect and how we use it. We may change this privacy policy from time to time, in its sole discretion, as discussed in section 7 below.  By using or visiting any FetchyFox website, application, product, software, tool, data feed, and/or service (collectively the "Service"), you understand and agree to the terms of this policy.
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>
+    ### Table of Contents
+  </summary>
+
 - [FetchyFox Privacy Policy](#fetchyfox-privacy-policy)
   - [What Information Do We Collect?](#what-information-do-we-collect)
   - [What Do We Do With The Information That We Collect?](#what-do-we-do-with-the-information-that-we-collect)
@@ -15,7 +18,10 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
 </details>
 
 <details>
-  <summary>AI Summary</summary>
+  <summary>
+    ### AI Summary
+  </summary>
+  
   **DISCLAIMER:** This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
 
   FetchyFox collects personal information during registration and transactions, encompassing details like location and user interactions. Non-personal data, including IP addresses and browsing history, is also gathered to enhance user experience. Technologies like cookies facilitate customization based on user preferences.
