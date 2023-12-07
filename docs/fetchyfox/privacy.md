@@ -4,7 +4,7 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
 
 <details>
   <summary>
-    ### Table of Contents
+    Table of Contents
   </summary>
 
 - [FetchyFox Privacy Policy](#fetchyfox-privacy-policy)
@@ -19,9 +19,9 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
 
 <details>
   <summary>
-    ### AI Summary
+    AI Summary
   </summary>
-  
+
   **DISCLAIMER:** This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
 
   FetchyFox collects personal information during registration and transactions, encompassing details like location and user interactions. Non-personal data, including IP addresses and browsing history, is also gathered to enhance user experience. Technologies like cookies facilitate customization based on user preferences.
