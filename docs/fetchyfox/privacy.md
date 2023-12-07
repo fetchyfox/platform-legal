@@ -12,9 +12,11 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
   - [International Usage](#international-usage)
   - [How Does A User Change Or Update Information?](#how-does-a-user-change-or-update-information)
   - [Changes to This Policy](#changes-to-this-policy)
+</details>
 
+<details>
   <summary>AI Summary</summary>
-  This summary serves as an overview of the privacy policy to illustrate key points and not a legal document.
+  **DISCLAIMER:** This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
 
   FetchyFox collects personal information during registration and transactions, encompassing details like location and user interactions. Non-personal data, including IP addresses and browsing history, is also gathered to enhance user experience. Technologies like cookies facilitate customization based on user preferences.
 
