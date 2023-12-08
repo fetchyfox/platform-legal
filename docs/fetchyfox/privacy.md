@@ -20,7 +20,7 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
 
 <details>
   <summary>
-    AI Summary
+    👉 <u>AI Summary</u>
   </summary>
 
   <p>
