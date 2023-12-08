@@ -38,7 +38,7 @@ PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATI
   </summary>
 
   <p>
-  <strong>DISCLAIMER:</strong> This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
+  <strong>DISCLAIMER:</strong> This summary serves as an overview of the Terms of Service to illustrate key points and is not a comprensive legal document.
   </p>
 
   <p>

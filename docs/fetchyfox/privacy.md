@@ -24,7 +24,7 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
   </summary>
 
   <p>
-  <strong>DISCLAIMER:</strong> This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
+  <strong>DISCLAIMER:</strong> This summary serves as an overview of the Privacy Policy to illustrate key points and is not a comprensive legal document.
   </p>
 
   <p>
