@@ -2,7 +2,7 @@
 
 FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated or related company (“FetchyFox” or “we”), recognizes the importance of your privacy.  This privacy policy tells you what personal information we collect and how we use it. We may change this privacy policy from time to time, in its sole discretion, as discussed in section 7 below.  By using or visiting any FetchyFox website, application, product, software, tool, data feed, and/or service (collectively the "Service"), you understand and agree to the terms of this policy.
 
-<details>
+<!-- <details>
   <summary>
     Table of Contents
   </summary>
@@ -15,22 +15,31 @@ FetchyFox, Inc. (www.fetchyfox.com), as well as any present or future affiliated
   - [International Usage](#international-usage)
   - [How Does A User Change Or Update Information?](#how-does-a-user-change-or-update-information)
   - [Changes to This Policy](#changes-to-this-policy)
-</details>
+
+</details> -->
 
 <details>
   <summary>
     AI Summary
   </summary>
 
-  **DISCLAIMER:** This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
+  <p>
+  <strong>DISCLAIMER:</strong> This summary serves as an overview of the privacy policy to illustrate key points and not a comprensive legal document.
+  </p>
 
+  <p>
   FetchyFox collects personal information during registration and transactions, encompassing details like location and user interactions. Non-personal data, including IP addresses and browsing history, is also gathered to enhance user experience. Technologies like cookies facilitate customization based on user preferences.
-
+</p>
+<p>
   The collected data serves its intended purposes, supporting operations, and may be shared with service providers. Marketing communication is conducted with user consent. Limited disclosure occurs, driven by legal requirements or during business transfers.
-
+</p>
+<p>
   Security measures, including encryption, are implemented to safeguard user information. The platform adheres to COPPA regulations, requiring parental consent for users under 18. The international usage of data acknowledges potential differences in privacy laws.
-
+</p>
+<p>
   Users can reach out to FetchyFox for privacy-related concerns or to request data removal. The policy may undergo updates, with changes communicated through website notices or emails, ensuring transparency with users.
+  </p>
+
 </details>
 
 ## What Information Do We Collect? 
